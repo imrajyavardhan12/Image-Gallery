@@ -1,2 +1,2 @@
 # Image-Gallery
-Website to showcase images 
+Website to showcase Images 
